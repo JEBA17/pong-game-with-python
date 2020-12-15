@@ -1,4 +1,4 @@
-# pong game
+# pong game using Python
 
 step1: install SimpleGUICS2Pygame module using pip
       Q: how to do it? follow further steps
